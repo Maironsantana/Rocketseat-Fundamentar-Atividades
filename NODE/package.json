@@ -1,0 +1,15 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "console.js",
+  "scripts": {
+    "start": "node console.js"
+  },
+  "keywords": [],
+  "author": "Mairon Santana",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^2.10.1"
+  }
+}
